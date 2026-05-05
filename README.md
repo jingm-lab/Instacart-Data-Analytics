@@ -26,10 +26,6 @@ Association rules: surfaced co-purchase rules dominated by two real shopping mod
 - FP-growth association rules
 - Lift/penetration profiling
 
-
-## Repo Structure
-
-
 ## Quick Start
 
 ### 1. Get the data
