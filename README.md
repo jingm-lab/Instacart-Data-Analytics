@@ -60,7 +60,7 @@ uv sync
 ### 3. Run the notebook
 
 ```bash
-uv run jupyter notebook Instacart_EDA.ipynb
+uv run jupyter notebook Instacart_Data_Analytics.ipynb
 ```
 
 It takes approximately 11 minutes to run the entire notebook.
